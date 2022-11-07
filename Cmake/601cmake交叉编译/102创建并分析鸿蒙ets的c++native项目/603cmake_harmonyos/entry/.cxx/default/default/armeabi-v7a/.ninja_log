@@ -1,0 +1,19 @@
+# ninja log v5
+0	50	6793891389594457	CMakeFiles/entry.dir/hello.cpp.o	51f34aff576e2abd
+50	549	6793891394600623	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/armeabi-v7a/libentry.so	cb55177e6df0a68f
+1	532	6793892330888499	CMakeFiles/entry.dir/hello.cpp.o	51f34aff576e2abd
+532	1155	6793892337155384	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/armeabi-v7a/libentry.so	cb55177e6df0a68f
+1	663	6793893539999793	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/armeabi-v7a/libentry.so	cb55177e6df0a68f
+1	518	6793895510985830	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/armeabi-v7a/libentry.so	cb55177e6df0a68f
+1	448	6793896419245039	CMakeFiles/entry.dir/hello.cpp.o	51f34aff576e2abd
+449	1031	6793896425099133	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/armeabi-v7a/libentry.so	cb55177e6df0a68f
+1	403	6793897495088734	CMakeFiles/entry.dir/hello.cpp.o	51f34aff576e2abd
+403	885	6793897499939954	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/armeabi-v7a/libentry.so	cb55177e6df0a68f
+1	508	6793898228214112	CMakeFiles/entry.dir/hello.cpp.o	51f34aff576e2abd
+509	1172	6793898234880677	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/armeabi-v7a/libentry.so	cb55177e6df0a68f
+1	604	6793899339564984	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/armeabi-v7a/libentry.so	62bcf3e788fd0d0d
+0	397	6793900129960216	CMakeFiles/entry.dir/hello.cpp.o	51f34aff576e2abd
+398	876	6793900134776523	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/armeabi-v7a/libentry.so	62bcf3e788fd0d0d
+1	478	6793905463208504	CMakeFiles/entry.dir/hello.cpp.o	51f34aff576e2abd
+1	447	6793908742231024	CMakeFiles/entry.dir/hello.cpp.o	51f34aff576e2abd
+448	973	6793908747519357	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/armeabi-v7a/libentry.so	62bcf3e788fd0d0d

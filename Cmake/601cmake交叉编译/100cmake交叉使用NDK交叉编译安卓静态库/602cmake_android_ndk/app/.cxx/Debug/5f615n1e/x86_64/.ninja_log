@@ -1,0 +1,19 @@
+# ninja log v5
+0	328	679265216	CMakeFiles/a602cmake_android_ndk.dir/native-lib.cpp.o	4c8cf0a1cdb57a50
+329	387	679265216	D:/cmake_code/src/602cmake_android_ndk/app/build/intermediates/cxx/Debug/5f615n1e/obj/x86_64/liba602cmake_android_ndk.so	789b87f317e4a5de
+3	172	679307808	D:/cmake_code/src/602cmake_android_ndk/app/build/intermediates/cxx/Debug/5f615n1e/obj/x86_64/liba602cmake_android_ndk.so	8ea1269a87652819
+2	490	679307910	CMakeFiles/a602cmake_android_ndk.dir/native-lib.cpp.o	e90619026f5d5ad
+3	397	679308077	CMakeFiles/a602cmake_android_ndk.dir/native-lib.cpp.o	e90619026f5d5ad
+0	5	0	clean	7174a057f4b32ffc
+2	312	679308407	CMakeFiles/a602cmake_android_ndk.dir/native-lib.cpp.o	e90619026f5d5ad
+2	321	679310491	CMakeFiles/a602cmake_android_ndk.dir/native-lib.cpp.o	e90619026f5d5ad
+0	5	0	clean	7174a057f4b32ffc
+2	318	679310537	CMakeFiles/a602cmake_android_ndk.dir/native-lib.cpp.o	e90619026f5d5ad
+3	442	679315611	CMakeFiles/a602cmake_android_ndk.dir/native-lib.cpp.o	e90619026f5d5ad
+442	507	679315611	D:/cmake_code/src/602cmake_android_ndk/app/build/intermediates/cxx/Debug/5f615n1e/obj/x86_64/liba602cmake_android_ndk.so	defaaedd1a3a96e1
+2	320	679317218	CMakeFiles/a602cmake_android_ndk.dir/native-lib.cpp.o	4c8cf0a1cdb57a50
+320	387	679317218	D:/cmake_code/src/602cmake_android_ndk/app/build/intermediates/cxx/Debug/5f615n1e/obj/x86_64/liba602cmake_android_ndk.so	8ea1269a87652819
+2	343	679318142	CMakeFiles/a602cmake_android_ndk.dir/native-lib.cpp.o	4c8cf0a1cdb57a50
+3	340	679336519	CMakeFiles/a602cmake_android_ndk.dir/native-lib.cpp.o	4c8cf0a1cdb57a50
+341	405	679336519	D:/cmake_code/src/602cmake_android_ndk/app/build/intermediates/cxx/Debug/5f615n1e/obj/x86_64/liba602cmake_android_ndk.so	b5642c9616a587b8
+1	6	0	clean	7174a057f4b32ffc

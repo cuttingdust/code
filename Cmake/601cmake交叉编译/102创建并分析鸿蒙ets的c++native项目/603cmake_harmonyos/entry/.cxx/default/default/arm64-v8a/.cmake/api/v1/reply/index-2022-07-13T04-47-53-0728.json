@@ -1,0 +1,50 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"name" : "Ninja"
+		},
+		"paths" : 
+		{
+			"cmake" : "D:/openharmony_sdk/native/3.1.6.6/build-tools/cmake/bin/cmake.exe",
+			"cpack" : "D:/openharmony_sdk/native/3.1.6.6/build-tools/cmake/bin/cpack.exe",
+			"ctest" : "D:/openharmony_sdk/native/3.1.6.6/build-tools/cmake/bin/ctest.exe",
+			"root" : "D:/openharmony_sdk/native/3.1.6.6/build-tools/cmake/share/cmake-3.16"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 16,
+			"patch" : 5,
+			"string" : "3.16.5",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-cdcfdfaeef46c77adace.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		}
+	],
+	"reply" : 
+	{
+		"codemodel-v2" : 
+		{
+			"jsonFile" : "codemodel-v2-cdcfdfaeef46c77adace.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		}
+	}
+}

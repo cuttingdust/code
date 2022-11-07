@@ -1,0 +1,18 @@
+# ninja log v5
+0	47	6793891395430811	CMakeFiles/entry.dir/hello.cpp.o	4532bb2c87ec8c11
+48	546	6793891400445299	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	70280fb70b2caf5c
+1	550	6793892343046722	CMakeFiles/entry.dir/hello.cpp.o	4532bb2c87ec8c11
+550	1181	6793892349395236	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	70280fb70b2caf5c
+1	704	6793893547551813	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	70280fb70b2caf5c
+1	520	6793895516562372	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	70280fb70b2caf5c
+1	537	6793896430900438	CMakeFiles/entry.dir/hello.cpp.o	4532bb2c87ec8c11
+538	1156	6793896437118056	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	70280fb70b2caf5c
+1	409	6793897504416109	CMakeFiles/entry.dir/hello.cpp.o	4532bb2c87ec8c11
+409	886	6793897509212389	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	70280fb70b2caf5c
+1	537	6793898240732117	CMakeFiles/entry.dir/hello.cpp.o	4532bb2c87ec8c11
+537	1168	6793898247098812	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	70280fb70b2caf5c
+1	612	6793899346211595	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	d8f09f624bf410c5
+1	493	6793900140077733	CMakeFiles/entry.dir/hello.cpp.o	4532bb2c87ec8c11
+493	1096	6793900146159330	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	d8f09f624bf410c5
+1	503	6793908753046806	CMakeFiles/entry.dir/hello.cpp.o	4532bb2c87ec8c11
+503	1042	6793908758473088	D:/cmake_code/src/603cmake_harmonyos/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	d8f09f624bf410c5

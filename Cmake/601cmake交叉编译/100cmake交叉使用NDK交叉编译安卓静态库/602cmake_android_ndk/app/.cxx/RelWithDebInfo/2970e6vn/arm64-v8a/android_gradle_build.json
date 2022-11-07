@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "D:\\cmake_code\\src\\602cmake_android_ndk\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\xiaca\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\cmake_code\\src\\602cmake_android_ndk\\app\\.cxx\\RelWithDebInfo\\2970e6vn\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\xiaca\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\cmake_code\\src\\602cmake_android_ndk\\app\\.cxx\\RelWithDebInfo\\2970e6vn\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "a602cmake_android_ndk::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "a602cmake_android_ndk",
+      "output": "D:\\cmake_code\\src\\602cmake_android_ndk\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\2970e6vn\\obj\\arm64-v8a\\liba602cmake_android_ndk.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\xiaca\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\xiaca\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

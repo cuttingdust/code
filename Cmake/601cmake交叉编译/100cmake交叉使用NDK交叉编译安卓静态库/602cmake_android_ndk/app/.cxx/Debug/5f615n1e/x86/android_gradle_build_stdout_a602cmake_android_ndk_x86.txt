@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\cmake_code\src\602cmake_android_ndk\app\.cxx\Debug\5f615n1e\x86'
+ninja: no work to do.

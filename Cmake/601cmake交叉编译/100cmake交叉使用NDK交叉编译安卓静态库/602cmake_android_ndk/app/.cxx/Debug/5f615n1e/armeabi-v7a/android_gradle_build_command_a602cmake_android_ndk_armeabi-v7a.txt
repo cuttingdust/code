@@ -1,0 +1,7 @@
+Executable : C:\Users\xiaca\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+D:\cmake_code\src\602cmake_android_ndk\app\.cxx\Debug\5f615n1e\armeabi-v7a
+a602cmake_android_ndk
+jvmArgs : 
+

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/cmake_code/src/603cmake_harmonyos/entry/.cxx/default/default/arm64-v8a",
+  "command": "D:\\openharmony_sdk\\native\\3.1.6.6\\llvm\\bin\\clang++.exe --target=aarch64-linux-ohos --gcc-toolchain=D:/openharmony_sdk/native/3.1.6.6/llvm --sysroot=D:/openharmony_sdk/native/3.1.6.6/sysroot  -Dentry_EXPORTS -ID:/cmake_code/src/603cmake_harmonyos/entry/src/main/cpp -ID:/cmake_code/src/603cmake_harmonyos/entry/src/main/cpp/include  -g -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -D__MUSL__ -fPIC   -o CMakeFiles\\entry.dir\\hello.cpp.o -c D:\\cmake_code\\src\\603cmake_harmonyos\\entry\\src\\main\\cpp\\hello.cpp",
+  "file": "D:\\cmake_code\\src\\603cmake_harmonyos\\entry\\src\\main\\cpp\\hello.cpp"
+}
+]
