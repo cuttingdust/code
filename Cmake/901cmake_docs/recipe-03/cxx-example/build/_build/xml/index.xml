@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.9.5" xml:lang="en-US">
+  <compound refid="class_message" kind="class"><name>Message</name>
+    <member refid="class_message_1a2117cc675a101ebe1b5eb23ec9232326" kind="variable"><name>message_</name></member>
+    <member refid="class_message_1a2246f9e3015883a76b7a0249c80604ec" kind="function"><name>Message</name></member>
+    <member refid="class_message_1ab165b08f675163c9fde8ed2da0c18d3a" kind="function"><name>Message</name></member>
+    <member refid="class_message_1abaca57e3d72e767dc4be2f932d18d61c" kind="friend"><name>operator&lt;&lt;</name></member>
+    <member refid="class_message_1aded8c446404717f4ce28283f4d85630e" kind="function"><name>printObject</name></member>
+  </compound>
+  <compound refid="hello-world_8cpp" kind="file"><name>hello-world.cpp</name>
+    <member refid="hello-world_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="_message_8cpp" kind="file"><name>Message.cpp</name>
+  </compound>
+  <compound refid="_message_8hpp" kind="file"><name>Message.hpp</name>
+  </compound>
+  <compound refid="dir_68267d1309a1af8e8297ef4c3efbcdba" kind="dir"><name>/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src</name>
+  </compound>
+</doxygenindex>

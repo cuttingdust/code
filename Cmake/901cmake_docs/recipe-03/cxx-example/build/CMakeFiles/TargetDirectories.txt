@@ -1,0 +1,7 @@
+/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/build/CMakeFiles/docs.dir
+/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/build/CMakeFiles/edit_cache.dir
+/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/build/CMakeFiles/rebuild_cache.dir
+/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/build/src/CMakeFiles/message.dir
+/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/build/src/CMakeFiles/hello-world.dir
+/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/build/src/CMakeFiles/edit_cache.dir
+/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/build/src/CMakeFiles/rebuild_cache.dir

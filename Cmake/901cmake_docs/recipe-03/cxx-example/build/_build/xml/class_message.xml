@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_message" kind="class" language="C++" prot="public">
+    <compoundname>Message</compoundname>
+    <includes refid="_message_8hpp" local="no">Message.hpp</includes>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_message_1a2117cc675a101ebe1b5eb23ec9232326" prot="private" static="no" mutable="no">
+        <type>std::string</type>
+        <definition>std::string Message::message_</definition>
+        <argsstring></argsstring>
+        <name>message_</name>
+        <qualifiedname>Message::message_</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>The message to be forwarded to screen </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp" line="30" column="15" bodyfile="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp" bodystart="30" bodyend="-1"/>
+        <referencedby refid="class_message_1aded8c446404717f4ce28283f4d85630e" compoundref="_message_8cpp" startline="6" endline="11">printObject</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_message_1a2246f9e3015883a76b7a0249c80604ec" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Message::Message</definition>
+        <argsstring>(const std::string &amp;m)</argsstring>
+        <name>Message</name>
+        <qualifiedname>Message::Message</qualifiedname>
+        <param>
+          <type>const std::string &amp;</type>
+          <declname>m</declname>
+        </param>
+        <briefdescription>
+<para>Constructor from a string. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername direction="in">m</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>a message </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp" line="18" column="3" bodyfile="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp" bodystart="18" bodyend="18"/>
+      </memberdef>
+      <memberdef kind="function" id="class_message_1ab165b08f675163c9fde8ed2da0c18d3a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Message::Message</definition>
+        <argsstring>(const char *m)</argsstring>
+        <name>Message</name>
+        <qualifiedname>Message::Message</qualifiedname>
+        <param>
+          <type>const char *</type>
+          <declname>m</declname>
+        </param>
+        <briefdescription>
+<para>Constructor from a character array. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername direction="in">m</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>a message </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp" line="22" column="3" bodyfile="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp" bodystart="22" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="friend">
+      <memberdef kind="friend" id="class_message_1abaca57e3d72e767dc4be2f932d18d61c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>std::ostream &amp;</type>
+        <definition>std::ostream &amp; operator&lt;&lt;</definition>
+        <argsstring>(std::ostream &amp;os, Message &amp;obj)</argsstring>
+        <name>operator&lt;&lt;</name>
+        <qualifiedname>Message::operator&lt;&lt;</qualifiedname>
+        <param>
+          <type>std::ostream &amp;</type>
+          <declname>os</declname>
+        </param>
+        <param>
+          <type><ref refid="class_message" kindref="compound">Message</ref> &amp;</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp" line="24" column="10" bodyfile="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp" bodystart="24" bodyend="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_message_1aded8c446404717f4ce28283f4d85630e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>std::ostream &amp;</type>
+        <definition>std::ostream &amp; Message::printObject</definition>
+        <argsstring>(std::ostream &amp;os)</argsstring>
+        <name>printObject</name>
+        <qualifiedname>Message::printObject</qualifiedname>
+        <param>
+          <type>std::ostream &amp;</type>
+          <declname>os</declname>
+        </param>
+        <briefdescription>
+<para>Function to forward message to screen. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername direction="inout">os</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>output stream </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp" line="34" column="16" bodyfile="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.cpp" bodystart="6" bodyend="11"/>
+        <references refid="class_message_1a2117cc675a101ebe1b5eb23ec9232326" compoundref="_message_8hpp" startline="30">message_</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Forwards string to screen. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="author"><para>Roberto Di Remigio </para>
+</simplesect>
+<simplesect kind="date"><para>2018 </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <location file="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp" line="13" column="1" bodyfile="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp" bodystart="13" bodyend="35"/>
+    <listofallmembers>
+      <member refid="class_message_1a2246f9e3015883a76b7a0249c80604ec" prot="public" virt="non-virtual"><scope>Message</scope><name>Message</name></member>
+      <member refid="class_message_1ab165b08f675163c9fde8ed2da0c18d3a" prot="public" virt="non-virtual"><scope>Message</scope><name>Message</name></member>
+      <member refid="class_message_1a2117cc675a101ebe1b5eb23ec9232326" prot="private" virt="non-virtual"><scope>Message</scope><name>message_</name></member>
+      <member refid="class_message_1abaca57e3d72e767dc4be2f932d18d61c" prot="public" virt="non-virtual"><scope>Message</scope><name>operator&lt;&lt;</name></member>
+      <member refid="class_message_1aded8c446404717f4ce28283f4d85630e" prot="private" virt="non-virtual"><scope>Message</scope><name>printObject</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

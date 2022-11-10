@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_message_8hpp" kind="file" language="C++">
+    <compoundname>Message.hpp</compoundname>
+    <includes local="no">iosfwd</includes>
+    <includes local="no">string</includes>
+    <includedby refid="_message_8cpp" local="yes">/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.cpp</includedby>
+    <includedby refid="hello-world_8cpp" local="yes">/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/hello-world.cpp</includedby>
+    <incdepgraph>
+      <node id="1">
+        <label>/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp</label>
+        <link refid="_message_8hpp"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>iosfwd</label>
+      </node>
+      <node id="3">
+        <label>string</label>
+      </node>
+    </incdepgraph>
+    <innerclass refid="class_message" prot="public">Message</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="preprocessor">#pragma<sp/>once</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;iosfwd&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;string&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight></codeline>
+<codeline lineno="13" refid="class_message" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="class_message" kindref="compound">Message</ref><sp/>{</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="18" refid="class_message_1a2246f9e3015883a76b7a0249c80604ec" refkind="member"><highlight class="normal"><sp/><sp/><ref refid="class_message_1a2246f9e3015883a76b7a0249c80604ec" kindref="member">Message</ref>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>std::string<sp/>&amp;m)<sp/>:<sp/><ref refid="class_message_1a2117cc675a101ebe1b5eb23ec9232326" kindref="member">message_</ref>(m)<sp/>{}</highlight></codeline>
+<codeline lineno="22" refid="class_message_1ab165b08f675163c9fde8ed2da0c18d3a" refkind="member"><highlight class="normal"><sp/><sp/><ref refid="class_message_1ab165b08f675163c9fde8ed2da0c18d3a" kindref="member">Message</ref>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">char</highlight><highlight class="normal"><sp/>*m)<sp/>:<sp/><ref refid="class_message_1a2117cc675a101ebe1b5eb23ec9232326" kindref="member">message_</ref>(std::string(m))<sp/>{}</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"></highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/></highlight><highlight class="keyword">friend</highlight><highlight class="normal"><sp/>std::ostream<sp/>&amp;operator&lt;&lt;(std::ostream<sp/>&amp;os,<sp/><ref refid="class_message" kindref="compound">Message</ref><sp/>&amp;obj)<sp/>{</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>obj.<ref refid="class_message_1aded8c446404717f4ce28283f4d85630e" kindref="member">printObject</ref>(os);</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/>}</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline lineno="30" refid="class_message_1a2117cc675a101ebe1b5eb23ec9232326" refkind="member"><highlight class="normal"><sp/><sp/>std::string<sp/><ref refid="class_message_1a2117cc675a101ebe1b5eb23ec9232326" kindref="member">message_</ref>;</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/>std::ostream<sp/>&amp;<ref refid="class_message_1aded8c446404717f4ce28283f4d85630e" kindref="member">printObject</ref>(std::ostream<sp/>&amp;os);</highlight></codeline>
+<codeline lineno="35"><highlight class="normal">};</highlight></codeline>
+    </programlisting>
+    <location file="/Users/handabao/MyFile/cmake-cookbook/chapter-12/recipe-03/cxx-example/src/Message.hpp"/>
+  </compounddef>
+</doxygen>
