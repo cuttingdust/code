@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>799</width>
+    <height>538</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>110</y>
+     <width>421</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image:url(:/image/vscode.jpg);</string>
+   </property>
+   <property name="text">
+    <string>Test CMake QT</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="qtcmake.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>slotTestCMake()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>633</x>
+     <y>282</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>738</x>
+     <y>346</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>slotTestCMake()</slot>
+ </slots>
+</ui>
