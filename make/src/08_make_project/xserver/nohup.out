@@ -1,0 +1,3 @@
+dyld[58254]: Library not loaded: libxthread.so
+  Referenced from: <32AA35AF-CC49-398E-828C-970D4461EF38> /Users/handabao/MyFile/make/src/08_make_project/xserver/xserver
+  Reason: tried: 'libxthread.so' (no such file), '/System/Volumes/Preboot/Cryptexes/OSlibxthread.so' (no such file), 'libxthread.so' (no such file), '/Users/handabao/MyFile/make/src/08_make_project/xserver/libxthread.so' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Users/handabao/MyFile/make/src/08_make_project/xserver/libxthread.so' (no such file), '/Users/handabao/MyFile/make/src/08_make_project/xserver/libxthread.so' (no such file)
